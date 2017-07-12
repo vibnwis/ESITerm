@@ -65,4 +65,5 @@ private:
     EsiTimer *timer;
 };
 
+
 #endif // MAINWINDOW_H
