@@ -65,5 +65,6 @@ private:
     EsiTimer *timer;
 };
 
+// Test of GitHub setting
 
 #endif // MAINWINDOW_H
