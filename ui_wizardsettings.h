@@ -1,0 +1,4 @@
+#ifndef WIZARDSETTINGS_H
+#define WIZARDSETTINGS_H
+
+#endif // WIZARDSETTINGS_H

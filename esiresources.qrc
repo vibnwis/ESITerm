@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/esi_comm">
+        <file>connect-serial.png</file>
+        <file>support-icon.png</file>
+        <file>upload-file-icon.png</file>
+        <file>terminal-blue.png</file>
+        <file>file_add.png</file>
+        <file>file_delete.png</file>
+        <file>file_edit.png</file>
+        <file>BT_file_text_minus.png</file>
+        <file>BT_file_text_plus.png</file>
+        <file>file_open.png</file>
+        <file>file_save.png</file>
+        <file>BT_file_blanc_star.png</file>
+        <file>BT_folder_file_open.png</file>
+        <file>ledred.png</file>
+        <file>ledgreen.png</file>
+        <file>disconnect_serial.png</file>
+        <file>Settings-48.png</file>
+        <file>blue-home-icon.png</file>
+        <file>red-home-icon.png</file>
+    </qresource>
+</RCC>
